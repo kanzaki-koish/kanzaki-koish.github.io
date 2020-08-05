@@ -1,3 +1,3 @@
 Koimeji's website
 
-kanzaki-koishi.github.io
+https://kanzaki-koishi.github.io
